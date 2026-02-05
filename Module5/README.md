@@ -37,21 +37,27 @@ The software to support consists of different software packages listed in Toolki
 As a result, we produced **6 different metaworks** of the same object.
 
 [<img src="../images/Table8.jpg" width="800">](Table8.jpg)
+
 **Metawork 1** geometry, texture and color are created from recorded scans from Artec Leo Scanner processed in Artec Studio 19 software.
 
 [<img src="../images/Table9.jpg" width="800">](Table9.jpg)
+
 **Metawork 2** geometry, texture and color are created from recorded scans from Artec Space Spider II Scanner processed in Artec Studio 19 software.
 
 [<img src="../images/Table10.jpg" width="800">](Table10.jpg)
+
 **Metawork 3** geometry is created from recorded scans from Artec Space Spider II Scanner processed in Artec Studio 19. Texture and color are created from recorded scans from Canon R5 Mark 2 Camera processed in Agisoft Metashape software.
 
 [<img src="../images/Table11.jpg" width="800">](Table11.jpg)
+
 **Metawork 4** geometry is created from recorded scans from Artec Space Spider II Scanner processed in Artec Studio 19. Texture and color are created from recorded scans from iPhone photo processed in Agisoft Metashape software.
 
 [<img src="../images/Table12.jpg" width="800">](Table12.jpg)
+
 **Metawork 5** geometry, texture and color are created from recorded scans from iPhone 15 photo processed in Artec Studio 19 software.
 
 [<img src="../images/Table13.jpg" width="800">](Table13.jpg)
+
 **Metawork 6** geometry, texture and color are created from recorded scans from iPhone 15 video processed in Artec Studio 19 software.
 
 
