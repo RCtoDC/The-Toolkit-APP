@@ -27,6 +27,6 @@ Specific objectives are:
 The project contributes to the Digital Europe Program by advancing the digital transformation of cultural heritage institutions and indirectly contributes to the European Green Deal by reducing physical impact and carbon footprint.
 
 
-[**HOME**](../README.md) | [**Previous Module**](../Module1/README.md) | [**Next Module**](../Module2/README.md)
+[**HOME**](../README.md) | [**Next Module**](../Module2/README.md)
 
 [<img src="../images/logo-dark.svg" width="200">](logo_dark.svg)
