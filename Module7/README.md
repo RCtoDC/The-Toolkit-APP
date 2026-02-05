@@ -1,6 +1,6 @@
 # **Module 7: ADVICE FROM CONSULTANTS**
 
-[<img src="../images/Module7AdviceFromConsultants.png" width="300">](images/Module7AdviceFromConsultants.png)
+[![Module 7: ADVICE FROM CONSULTANTS](https://img.youtube.com/vi/PKJW-dxySzw/0.jpg)](https://youtu.be/PKJW-dxySzw)
 
 **Purpose:**
 
