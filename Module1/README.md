@@ -1,6 +1,6 @@
 # **Module 1: FRAMEWORKS**
 
-[![Module 1: FRAMEWORKS](https://img.youtube.com/vi/1kliC2UW0D4/0.jpg)](https://www.youtube.com/watch?v=1kliC2UW0D4)
+[![Module 1: FRAMEWORKS](https://img.youtube.com/vi/1kliC2UW0D4/0.jpg)](https://youtu.be/1kliC2UW0D4)
 
 **Project summary**
 
