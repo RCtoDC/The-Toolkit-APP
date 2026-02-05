@@ -1,6 +1,6 @@
 # **Module 5: VIDEO TRAINING**
 
-[<img src="images/Module5VideoTraining.png" width="300">](../images/Module5VideoTraining.png)
+[![Module 5: VIDEO TRAINING](https://img.youtube.com/vi/kcZQEUqq8zI/0.jpg)](https://youtu.be/kcZQEUqq8zI)
 
 **Purpose:** Provide visual education and tutorial for RCtoDC processes.
 
