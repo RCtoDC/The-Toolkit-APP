@@ -1,6 +1,6 @@
 # **Module 8: BEST PRACTICES**
 
-![<img src="../images/Module8BestPractices.png" width="300" px">](../images/Module8BestPractices.png)
+[![Module 8: BEST PRACTICES](https://img.youtube.com/vi/A8NwNmX-Tv0/0.jpg)](https://youtu.be/A8NwNmX-Tv0)
 
 **Purpose:**
 
