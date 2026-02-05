@@ -8,15 +8,15 @@ This tutorial presents the **completed RCtoDC digitization and digitalization pr
 
 The tutorial explains **how the project was implemented**, which digitization methods and tools were applied, and how the final results are structured and recorded within the **Axiell Collections database** and the accompanying **Excel documentation**.
 
-[<img src="../images/Table1.jpg" width="800">](Table1.jpg)
+[<img src="../images/Table1.jpg" width="800">](../images/Table1.jpg)
 
-[<img src="../images/Table2.jpg" width="800">](Table2.jpg)
+[<img src="../images/Table2.jpg" width="800">](../images/Table2.jpg)
 
-[<img src="../images/Table3.jpg" width="800">](Table3.jpg)
+[<img src="../images/Table3.jpg" width="800">](../images/Table3.jpg)
 
-[<img src="../images/Table4.jpg" width="800">](Table4.jpg)
+[<img src="../images/Table4.jpg" width="800">](../images/Table4.jpg)
 
-[<img src="../images/Table5.jpg" width="800">](Table5.jpg)
+[<img src="../images/Table5.jpg" width="800">](../images/Table5.jpg)
 
 The Excel sheet is **not a preparatory instrument**, but the **final consolidated project record**, capturing all digitization activities, technical parameters, metadata, and digital outputs. This module therefore functions as a **methodological explanation of completed work** and a **reference model for future EU-funded digitization initiatives**.
 
@@ -118,7 +118,7 @@ The RCtoDC project applied internationally recognised standards to ensure intero
 
 The Excel sheet mirrors this structure and supports data validation and cross-checking.
 
-[<img src="../images/Table6.jpg" width="800">](Table6.jpg)
+[<img src="../images/Table6.jpg" width="800">](../images/Table6.jpg)
 
 
 [**HOME**](../README.md) | [**Previous Module**](../Module3/README.md) | [**Next Module**](../Module5/README.md)
