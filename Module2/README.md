@@ -1,6 +1,6 @@
 # **Module 2: TOOLS**
 
-[<img src="../images/Module2Tools.png" width="300">](../images/Module2Tools.png)
+[![Module 1: FRAMEWORKS](https://img.youtube.com/vi/B9Z6vrmc1rQ/0.jpg)](https://youtu.be/B9Z6vrmc1rQ)
 
 **Purpose:** Provide an overview of equipment/recording tools used for digitization.
 
