@@ -1,6 +1,6 @@
 # **Module 4: STEP-BY-STEP TUTORIALS**
 
-[<img src="../images/Module4StepByStepTutorials.png" width="300">](images/Module4StepByStepTutorials.png)
+[![Module 4: STEP-BY-STEP TUTORIALS](https://img.youtube.com/vi/eMCzvfjuYjQ/0.jpg)](https://youtu.be/eMCzvfjuYjQ)
 
 ## **Purpose:**
 
