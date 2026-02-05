@@ -1,6 +1,6 @@
 # **Module 2: TOOLS**
 
-[![Module 1: FRAMEWORKS](https://img.youtube.com/vi/B9Z6vrmc1rQ/0.jpg)](https://youtu.be/B9Z6vrmc1rQ)
+[![Module 2: TOOLS](https://img.youtube.com/vi/B9Z6vrmc1rQ/0.jpg)](https://youtu.be/B9Z6vrmc1rQ)
 
 **Purpose:** Provide an overview of equipment/recording tools used for digitization.
 
