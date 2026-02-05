@@ -1,6 +1,6 @@
 # **Module 3: TEMPLATES**
 
-[<img src="../images/Module3Templates.png" width="300">](images/Module3Templates.png)
+[![Module 3: TEMPLATES](https://img.youtube.com/vi/iyF105gIKZE/0.jpg)](https://youtu.be/iyF105gIKZE)
 
 **Purpose:** Provide standardized templates for documentation and reporting.
 
