@@ -1,6 +1,6 @@
 # **Module 6: REAL-LIFE EXAMPLES: DISSEMINATION**
 
-[<img src="../images/Module6RealLifeExamples.png" width="300">](images/Module6RealLifeExamples.png)
+[![Module 6: REAL-LIFE EXAMPLES: DISSEMINATION](https://img.youtube.com/vi/c3FC8f6zPnE/0.jpg)](https://youtu.be/c3FC8f6zPnE)
 
 **Purpose:**
 
