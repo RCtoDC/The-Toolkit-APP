@@ -38,6 +38,8 @@ The initial concept of the toolkit is structured **into multiple key modules**, 
 
 [![RCtoDC Toolkit](https://img.youtube.com/vi/J3Ra5VHc0ZE/0.jpg)](https://youtu.be/J3Ra5VHc0ZE)
 
+[**RCtoDC Youtube kanal**](https://www.youtube.com/@RCtoDC-FromRawCollectiontoDigi/videos)
+
 ## **Conclusion**
 
 The **3D and XR Toolkit for Cultural Heritage** is a crucial step towards democratizing **digitization processes and knowledge-sharing** within the cultural heritage sector. By providing a structured, **step-by-step approach**, the toolkit ensures that institutions of varying capacities can actively participate in the **digital transformation** of cultural heritage.
@@ -45,4 +47,5 @@ The **3D and XR Toolkit for Cultural Heritage** is a crucial step towards democr
 The integration of **best practices, standardized workflows, and cutting-edge technological guidance** will allow CHIs to improve the **efficiency, accuracy, and interoperability** of their digital collections. Furthermore, by aligning with the **European Data Space for Cultural Heritage**, this initiative enhances **collaborative data-sharing, preservation strategies, and open-access cultural heritage initiatives** at a European level.
 
 Moving forward, the next steps in the **toolkit's development** will focus on **refining its modular structure**, incorporating **feedback from early testing**, and ensuring seamless **integration with existing digitization platforms and repositories**. The long-term vision is to create a **sustainable, adaptable, and evolving resource** that continues to support CHIs beyond the scope of the RCtoDC project, fostering a culture of **digital innovation and preservation excellence**.
+
 
