@@ -1,6 +1,6 @@
 # **Module 5: VIDEO TRAINING**
 
-[<img src="images/Module5VideoTraining.png" width="300">](images/Module5VideoTraining.png)
+[<img src="images/Module5VideoTraining.png" width="300">](../images/Module5VideoTraining.png)
 
 **Purpose:** Provide visual education and tutorial for RCtoDC processes.
 
@@ -8,7 +8,7 @@
 
 Out of 44 objects, we chose object number 28, St John the Baptist, as the object for presenting the step-by-step process of creating 3D and XR metaworks.
 
-[<img src="../images/Table7.jpg" width="800">](Table7.jpg)
+[<img src="../images/Table7.jpg" width="800">](../images/Table7.jpg)
 
 In this example, we explored five different recording equipment for scanning and two software packages for processing recorded scans.
 
@@ -36,27 +36,27 @@ The software to support consists of different software packages listed in Toolki
 
 As a result, we produced **6 different metaworks** of the same object.
 
-[<img src="../images/Table8.jpg" width="800">](Table8.jpg)
+[<img src="../images/Table8.jpg" width="800">](../images/Table8.jpg)
 
 **Metawork 1** geometry, texture and color are created from recorded scans from Artec Leo Scanner processed in Artec Studio 19 software.
 
-[<img src="../images/Table9.jpg" width="800">](Table9.jpg)
+[<img src="../images/Table9.jpg" width="800">](../images/Table9.jpg)
 
 **Metawork 2** geometry, texture and color are created from recorded scans from Artec Space Spider II Scanner processed in Artec Studio 19 software.
 
-[<img src="../images/Table10.jpg" width="800">](Table10.jpg)
+[<img src="../images/Table10.jpg" width="800">](../images/Table10.jpg)
 
 **Metawork 3** geometry is created from recorded scans from Artec Space Spider II Scanner processed in Artec Studio 19. Texture and color are created from recorded scans from Canon R5 Mark 2 Camera processed in Agisoft Metashape software.
 
-[<img src="../images/Table11.jpg" width="800">](Table11.jpg)
+[<img src="../images/Table11.jpg" width="800">](../images/Table11.jpg)
 
 **Metawork 4** geometry is created from recorded scans from Artec Space Spider II Scanner processed in Artec Studio 19. Texture and color are created from recorded scans from iPhone photo processed in Agisoft Metashape software.
 
-[<img src="../images/Table12.jpg" width="800">](Table12.jpg)
+[<img src="../images/Table12.jpg" width="800">](../images/Table12.jpg)
 
 **Metawork 5** geometry, texture and color are created from recorded scans from iPhone 15 photo processed in Artec Studio 19 software.
 
-[<img src="../images/Table13.jpg" width="800">](Table13.jpg)
+[<img src="../images/Table13.jpg" width="800">](../images/Table13.jpg)
 
 **Metawork 6** geometry, texture and color are created from recorded scans from iPhone 15 video processed in Artec Studio 19 software.
 
@@ -199,7 +199,7 @@ The data is then prepared for:
 
 Resources presented in the Toolkit empower cultural heritage professionals to move confidently **from raw collection to structured digital collection**, supporting the long-term goals of the European Data Space for Cultural Heritage and fostering a shared digital future for Europe's cultural assets.
 
-[<img src="../images/Table14.jpg" width="800">](Table14.jpg)
+[<img src="../images/Table14.jpg" width="800">](../images/Table14.jpg)
 
 [**HOME**](../README.md) | [**Previous Module**](../Module4/README.md) | [**Next Module**](../Module6/README.md)
 
