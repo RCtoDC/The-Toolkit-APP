@@ -217,6 +217,6 @@ Module 8: Best Practices presents three complementary digitization approaches de
 
 
 
-[**HOME**](../README.md) | [**Previous Module**](../Module7/README.md) | [**Next Module**](../README.md#conclusion)
+[**HOME**](../README.md) | [**Previous Module**](../Module7/README.md) | [**Conclusion**](../README.md#conclusion)
 
 [<img src="../images/logo-dark.svg" width="200">](logo_dark.svg)
