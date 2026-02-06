@@ -118,7 +118,7 @@ The RCtoDC project applied internationally recognised standards to ensure intero
 
 The Excel sheet mirrors this structure and supports data validation and cross-checking.
 
-[<img src="../images/Table6.jpg" width="800">](../images/Table6.jpg)
+[<img src="../images/Table6.png" width="800">](../images/Table6.png)
 
 
 [**HOME**](../README.md) | [**Previous Module**](../Module3/README.md) | [**Next Module**](../Module5/README.md)
