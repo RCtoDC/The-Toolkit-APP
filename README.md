@@ -2,8 +2,7 @@
 
 # THE TOOLKIT-APP
 
-## FOR 3D AND XR DIGITIZATION IS IMPLEMENTED THROUGH
-## A DUAL-FORMAT DELIVERY MODEL CONSISTING OF:
+## FOR 3D AND XR DIGITIZATION IS IMPLEMENTED THROUGH A DUAL-FORMAT DELIVERY MODEL CONSISTING OF:
 
 |[<img src="images/booklet.png" width="50">](booklet.png)<br /> **BOOKLET** STRUCTURED, presenting the same workflows, <br />tools and standards in a written, reference-oriented format.|
 |:-:|
