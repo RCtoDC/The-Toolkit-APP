@@ -32,6 +32,8 @@ Contents
 
 [**Conclusion**](#conclusion)
 
+## **Introduction**
+
 This combined approach was deliberately adopted to maximise accessibility, usability, and reuse across heterogeneous institutional contexts. The Toolkit does not replace specialised 3D/XR software—which is indispensable for the creation of 3D and XR objects—but **orchestrates, structures, and operationalises their use** through clear, task-oriented guidance.
 
 Development followed a **user-centred, practice-driven** **methodology**, closely integrated with:
@@ -41,8 +43,6 @@ Development followed a **user-centred, practice-driven** **methodology**, closel
 * dissemination and feedback mechanisms under WP4.
 
 The Toolkit’s modular architecture, open accessibility, and reliance on widely used professional tools ensure **high potential for uptake, scalability across institutional contexts**, and **sustainability beyond the project lifetime**. This report complements the tangible Toolkit outputs (video and booklet) by documenting the development and deployment process and serves as a basis for expert assessment during the final project review, alongside a live demonstration.
-
-## **Introduction**
 
 The 3D and XR Toolkit for Cultural Heritage is a core component of the RCtoDC project, **designed to support cultural heritage institutions (CHIs) in their digitization efforts**. This toolkit will serve as a comprehensive and user-friendly resource, providing step-by-step guidance on digitization workflows, equipment usage, metadata integration, and best practices. The primary goal is to facilitate efficient and high-quality digital preservation, ensuring that CHIs can contribute structured, reusable, and standardized digital assets to the European Data Space for Cultural Heritage.
 
