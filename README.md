@@ -10,10 +10,6 @@
 
 Contents
 
-[**Introduction**](#introduction)
-
-[**Toolkit App Concept**](#toolkit-app-concept)
-
 [**Module 1: FRAMEWORKS**](/Module1/README.md)
 
 [**Module 2: TOOLS**](/Module2/README.md)
@@ -29,8 +25,6 @@ Contents
 [**Module 7: ADVICE FROM CONSULTANTS**](/Module7/README.md)
 
 [**Module 8: BEST PRACTICES**](/Module8/README.md)
-
-[**Conclusion**](#conclusion)
 
 ## **Introduction**
 
