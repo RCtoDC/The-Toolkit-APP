@@ -1,7 +1,9 @@
 [<img src="images/logo-dark.svg" width="200">](logo_dark.svg)
 
 # THE TOOLKIT-APP
+
 ## FOR 3D AND XR DIGITIZATION IS IMPLEMENTED THROUGH
+## A DUAL-FORMAT DELIVERY MODEL CONSISTING OF:
 
 Contents
 
