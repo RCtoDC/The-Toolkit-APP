@@ -1,6 +1,7 @@
 [<img src="images/logo-dark.svg" width="200">](logo_dark.svg)
 
-# TOOLKIT FOR 3D AND XR USER-FRIENDLY APP M4
+# THE TOOLKIT-APP
+## FOR 3D AND XR DIGITIZATION IS IMPLEMENTED THROUGH
 
 Contents
 
