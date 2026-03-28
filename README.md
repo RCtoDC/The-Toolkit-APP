@@ -5,6 +5,9 @@
 ## FOR 3D AND XR DIGITIZATION IS IMPLEMENTED THROUGH
 ## A DUAL-FORMAT DELIVERY MODEL CONSISTING OF:
 
+|**BOOKLET** STRUCTURED, presenting the same workflows, tools and standards in a written, reference-oriented format.|**VIDEO** BASED web-accessible application layer.<br />|
+|-|-|
+
 Contents
 
 [**Introduction**](#introduction)
