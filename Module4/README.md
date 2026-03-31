@@ -124,4 +124,4 @@ The Excel sheet mirrors this structure and supports data validation and cross-ch
 
 [**HOME**](../README.md) | [**Previous Module**](../Module3/README.md) | [**Next Module**](../Module5/README.md)
 
-[<img src="../images/logo-dark.svg" width="200">](logo_dark.svg)
+[<img src="../images/logo-light.svg" width="200">](logo_light.svg)
