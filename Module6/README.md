@@ -20,4 +20,4 @@ As an example watch [TESLAVERSE Episode 6: RCtoDC](https://youtu.be/VRRkzl8rnFI?
 
 [**HOME**](../README.md) | [**Previous Module**](../Module5/README.md) | [**Next Module**](../Module7/README.md)
 
-[<img src="../images/logo-dark.svg" width="200">](logo_dark.svg)
+[<img src="../images/logo-light.svg" width="200">](logo_light.svg)
