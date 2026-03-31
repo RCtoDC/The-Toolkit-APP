@@ -8,15 +8,17 @@ This tutorial presents the **completed RCtoDC digitization and digitalization pr
 
 The tutorial explains **how the project was implemented**, which digitization methods and tools were applied, and how the final results are structured and recorded within the **Axiell Collections database** and the accompanying **Excel documentation**.
 
-[<img src="../images/Table1.jpg" width="800">](../images/Table1.jpg)
+[<img src="../images/Table1.png" width="800">](../images/Table1.png)
 
-[<img src="../images/Table2.jpg" width="800">](../images/Table2.jpg)
+[<img src="../images/Table2.png" width="800">](../images/Table2.png)
 
-[<img src="../images/Table3.jpg" width="800">](../images/Table3.jpg)
+[<img src="../images/Table3.png" width="800">](../images/Table3.png)
 
-[<img src="../images/Table4.jpg" width="800">](../images/Table4.jpg)
+[<img src="../images/Table4.png" width="800">](../images/Table4.png)
 
-[<img src="../images/Table5.jpg" width="800">](../images/Table5.jpg)
+[<img src="../images/Table5.png" width="800">](../images/Table5.png)
+
+[<img src="../images/Table6.png" width="800">](../images/Table6.png)
 
 The Excel sheet is **not a preparatory instrument**, but the **final consolidated project record**, capturing all digitization activities, technical parameters, metadata, and digital outputs. This module therefore functions as a **methodological explanation of completed work** and a **reference model for future EU-funded digitization initiatives**.
 
