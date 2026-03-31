@@ -29,4 +29,4 @@ The project contributes to the Digital Europe Program by advancing the digital t
 
 [**HOME**](../README.md) | [**Next Module**](../Module2/README.md)
 
-[<img src="../images/logo-dark.svg" width="200">](logo_dark.svg)
+[<img src="../images/logo-light.svg" width="200">](logo_light.svg)
