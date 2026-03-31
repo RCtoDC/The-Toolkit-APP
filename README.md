@@ -1,4 +1,4 @@
-[<img src="images/logo-dark.svg" width="200">](logo_dark.svg)
+[<img src="images/logo-light.svg" width="200">](logo_light.svg)
 
 # THE TOOLKIT-APP
 
