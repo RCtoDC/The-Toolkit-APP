@@ -125,4 +125,4 @@ _Always separate master files from dissemination formats to ensure sustainabilit
 
 [**HOME**](../README.md) | [**Previous Module**](../Module6/README.md) | [**Next Module**](../Module8/README.md)
 
-[<img src="../images/logo-dark.svg" width="200">](logo_dark.svg)
+[<img src="../images/logo-light.svg" width="200">](logo_light.svg)
