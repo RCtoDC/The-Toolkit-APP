@@ -125,4 +125,4 @@
 
 [**HOME**](../README.md) | [**Previous Module**](../Module1/README.md) | [**Next Module**](../Module3/README.md)
 
-[<img src="../images/logo-dark.svg" width="200">](logo_dark.svg)
+[<img src="../images/logo-light.svg" width="200">](logo_light.svg)
