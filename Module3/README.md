@@ -19,4 +19,4 @@ A document template is a blueprint for generating document-style reports. The te
 
 [**HOME**](../README.md) | [**Previous Module**](../Module2/README.md) | [**Next Module**](../Module4/README.md)
 
-[<img src="../images/logo-dark.svg" width="200">](logo_dark.svg)
+[<img src="../images/logo-light.svg" width="200">](logo_light.svg)
